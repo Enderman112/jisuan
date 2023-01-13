@@ -7,8 +7,6 @@ static auto choose = 0;
 int main(){
     std::cout<<"正在进入"<<std::endl;
     std::cout<<"欢迎使用"<<std::endl;
-    std::cout<<"你今天的幸运值是"<<
-    rand()<<std::endl;
     while (choose < 255){
         std::cout << "请选择需要的计算方式" << std::endl;
         std::cout << "1.一元二次方程 2.某数的几次方根 3.某数的几次方 4.范围内所有质数 5.判断一个数是奇数还是偶数 6.输出范围内奇偶数 0.退出" << std::endl;
