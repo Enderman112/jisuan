@@ -21,3 +21,4 @@ cmake-build-release
 *.iml
 out
 gen
+.DS_Store
