@@ -21,4 +21,6 @@ cmake-build-release
 *.iml
 out
 gen
+
+#该死的mac
 .DS_Store
